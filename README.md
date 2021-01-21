@@ -13,7 +13,7 @@ Pokedex Challenge using React.Js
     - GET ( https://pokeapi.co/api/v2/pokemon/4 ) OR GET ( https://pokeapi.co/api/v2/pokemon/charmander ) will have the same result
   - Api Documentation for reference if needed ( https://pokeapi.co/ )
 
-# Layout Example
+# Layout Reference
 ![alt text](https://raw.githubusercontent.com/carlosbbraga/pokedex-challenge/main/pokedex-preview.png)
 
 # Bônus Assignement
