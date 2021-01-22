@@ -13,7 +13,7 @@ Pokedex Challenge using React.Js
   - Api Documentation for reference if needed ( https://pokeapi.co/ )
 
 # Layout Reference
-![alt text](https://raw.githubusercontent.com/carlosbbraga/pokedex-challenge/main/pokedex-preview.png)
+![alt text](https://raw.githubusercontent.com/carlosbbraga/pokedex-challenge/main/pokedex-challenge.jpg)
 
 # Bônus Assignement
   - Paint the Borders of Pokemons that belong to the same evolution chain with the same color (Example pokemons 1, 2 and 3 -> Bulbasaur, Ivysaur and Venusaur should have the same border color) 
