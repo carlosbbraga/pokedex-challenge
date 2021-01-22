@@ -2,7 +2,7 @@
 Pokedex Challenge using React.Js
 
 # Requirements
-  - Build a Pokedex like Table that shows the first 100 Pokemon
+  - Build a Pokedex like Table that shows the first 151 Pokemon
   - Use a Real Life API to fetch pokemons list 
     - GET ( https://pokeapi.co/api/v2/pokemon?limit=100 )
   - The Pokemons should be displayed one by square in order with theirs Names, Image (official-artwork) and PokedexNumber (a.k.a Id)
